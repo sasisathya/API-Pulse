@@ -14,18 +14,18 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/exploretechvijay/API-Pulse/actions/workflows/ci.yml"><img src="https://github.com/exploretechvijay/API-Pulse/actions/workflows/ci.yml/badge.svg" alt="CI"></a>
-  <a href="CHANGELOG.md"><img src="https://img.shields.io/github/package-json/v/exploretechvijay/API-Pulse?label=version&color=2a78d6" alt="Version"></a>
-  <a href="https://github.com/exploretechvijay/API-Pulse/stargazers"><img src="https://img.shields.io/github/stars/exploretechvijay/API-Pulse?style=flat&logo=github" alt="GitHub stars"></a>
-  <a href="https://github.com/exploretechvijay/API-Pulse/network/members"><img src="https://img.shields.io/github/forks/exploretechvijay/API-Pulse?style=flat&logo=github" alt="GitHub forks"></a>
-  <a href="https://github.com/exploretechvijay/API-Pulse/issues"><img src="https://img.shields.io/github/issues/exploretechvijay/API-Pulse" alt="Open issues"></a>
-  <a href="https://github.com/exploretechvijay/API-Pulse/commits/main"><img src="https://img.shields.io/github/last-commit/exploretechvijay/API-Pulse" alt="Last commit"></a>
-  <a href="LICENSE"><img src="https://img.shields.io/github/license/exploretechvijay/API-Pulse?color=blue" alt="MIT license"></a>
+  <a href="https://github.com/sasisathya/API-Pulse/actions/workflows/ci.yml"><img src="https://github.com/sasisathya/API-Pulse/actions/workflows/ci.yml/badge.svg" alt="CI"></a>
+  <a href="CHANGELOG.md"><img src="https://img.shields.io/github/package-json/v/sasisathya/API-Pulse?label=version&color=2a78d6" alt="Version"></a>
+  <a href="https://github.com/sasisathya/API-Pulse/stargazers"><img src="https://img.shields.io/github/stars/sasisathya/API-Pulse?style=flat&logo=github" alt="GitHub stars"></a>
+  <a href="https://github.com/sasisathya/API-Pulse/network/members"><img src="https://img.shields.io/github/forks/sasisathya/API-Pulse?style=flat&logo=github" alt="GitHub forks"></a>
+  <a href="https://github.com/sasisathya/API-Pulse/issues"><img src="https://img.shields.io/github/issues/sasisathya/API-Pulse" alt="Open issues"></a>
+  <a href="https://github.com/sasisathya/API-Pulse/commits/main"><img src="https://img.shields.io/github/last-commit/sasisathya/API-Pulse" alt="Last commit"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/github/license/sasisathya/API-Pulse?color=blue" alt="MIT license"></a>
   <br>
   <a href="https://nodejs.org"><img src="https://img.shields.io/badge/node-%3E%3D20-339933?logo=node.js&logoColor=white" alt="Node.js 20+"></a>
-  <a href="web/package.json"><img src="https://img.shields.io/github/package-json/dependency-version/exploretechvijay/API-Pulse/react?filename=web%2Fpackage.json&logo=react&logoColor=white&color=149eca" alt="React"></a>
-  <a href="server/package.json"><img src="https://img.shields.io/github/package-json/dependency-version/exploretechvijay/API-Pulse/express?filename=server%2Fpackage.json&logo=express&logoColor=white&color=555" alt="Express"></a>
-  <a href="server/package.json"><img src="https://img.shields.io/github/package-json/dependency-version/exploretechvijay/API-Pulse/better-sqlite3?filename=server%2Fpackage.json&label=better-sqlite3&logo=sqlite&logoColor=white&color=003b57" alt="better-sqlite3"></a>
+  <a href="web/package.json"><img src="https://img.shields.io/github/package-json/dependency-version/sasisathya/API-Pulse/react?filename=web%2Fpackage.json&logo=react&logoColor=white&color=149eca" alt="React"></a>
+  <a href="server/package.json"><img src="https://img.shields.io/github/package-json/dependency-version/sasisathya/API-Pulse/express?filename=server%2Fpackage.json&logo=express&logoColor=white&color=555" alt="Express"></a>
+  <a href="server/package.json"><img src="https://img.shields.io/github/package-json/dependency-version/sasisathya/API-Pulse/better-sqlite3?filename=server%2Fpackage.json&label=better-sqlite3&logo=sqlite&logoColor=white&color=003b57" alt="better-sqlite3"></a>
   <a href="#option-a--docker-recommended"><img src="https://img.shields.io/badge/docker-ready-2496ed?logo=docker&logoColor=white" alt="Docker ready"></a>
   <a href="#setup-guide"><img src="https://img.shields.io/badge/self--hosted-no%20SaaS-0ca30c" alt="Self-hosted"></a>
   <br>
@@ -35,7 +35,7 @@
 </p>
 
 <p align="center">
-  ⭐ <b>If API Pulse is useful to you, please <a href="https://github.com/exploretechvijay/API-Pulse/stargazers">star the repo</a></b> – it helps other developers find it.
+  ⭐ <b>If API Pulse is useful to you, please <a href="https://github.com/sasisathya/API-Pulse/stargazers">star the repo</a></b> – it helps other developers find it.
 </p>
 
 <p align="center">
@@ -196,7 +196,7 @@ API Pulse runs as **one container** (or one Node.js process) with a SQLite datab
 
 ```bash
 # 1. Get the code
-git clone https://github.com/exploretechvijay/API-Pulse.git
+git clone https://github.com/sasisathya/API-Pulse.git
 cd API-Pulse
 
 # 2. Create your settings file
@@ -226,7 +226,7 @@ The container restarts automatically if it crashes, and all monitors resume from
 ### Option B – Node.js (no Docker)
 
 ```bash
-git clone https://github.com/exploretechvijay/API-Pulse.git
+git clone https://github.com/sasisathya/API-Pulse.git
 cd API-Pulse
 npm install          # installs server + web dependencies
 npm run build        # builds the web UI into web/dist
@@ -458,8 +458,8 @@ Contributions of all sizes are welcome – bug reports, ideas, docs and code.
 
 | | |
 | --- | --- |
-| 🐞 **Found a bug?** | Open a [bug report](https://github.com/exploretechvijay/API-Pulse/issues/new/choose) |
-| 💡 **Have an idea?** | Open a [feature request](https://github.com/exploretechvijay/API-Pulse/issues/new/choose) |
+| 🐞 **Found a bug?** | Open a [bug report](https://github.com/sasisathya/API-Pulse/issues/new/choose) |
+| 💡 **Have an idea?** | Open a [feature request](https://github.com/sasisathya/API-Pulse/issues/new/choose) |
 | 🛠️ **Want to contribute code?** | Read [CONTRIBUTING.md](CONTRIBUTING.md) – setup, project structure, guidelines and the PR process |
 | 🤝 **Code of Conduct** | We follow the [Contributor Covenant](CODE_OF_CONDUCT.md) |
 | 🔒 **Security issue?** | Please report it privately – see [SECURITY.md](SECURITY.md) |

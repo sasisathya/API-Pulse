@@ -1,6 +1,6 @@
 # API Pulse — Product Requirements Document
 
-Oct 18, 2026 · @Vijay
+Oct 18, 2026 · @sasisathya
 
 ## Overview
 

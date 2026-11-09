@@ -18,7 +18,7 @@ Security fixes are made for the latest release on the `main` branch.
 Report them privately through GitHub:
 
 1. Go to the repository's **Security** tab.
-2. Click **Report a vulnerability** ([direct link](https://github.com/exploretechvijay/API-Pulse/security/advisories/new)).
+2. Click **Report a vulnerability** ([direct link](https://github.com/sasisathya/API-Pulse/security/advisories/new)).
 3. Describe the issue, the affected version or commit, steps to reproduce, and the impact you expect.
 
 What to expect:

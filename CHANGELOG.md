@@ -27,5 +27,5 @@ First public release.
 - **Security & operations:** Admin / Editor / Viewer roles, audit log, public status page, data retention with hourly rollups.
 - **Deployment:** Docker image, Docker Compose with auto-restart, and an optional Caddy HTTPS profile.
 
-[Unreleased]: https://github.com/exploretechvijay/API-Pulse/compare/v1.0.0...HEAD
-[1.0.0]: https://github.com/exploretechvijay/API-Pulse/releases/tag/v1.0.0
+[Unreleased]: https://github.com/sasisathya/API-Pulse/compare/v1.0.0...HEAD
+[1.0.0]: https://github.com/sasisathya/API-Pulse/releases/tag/v1.0.0
